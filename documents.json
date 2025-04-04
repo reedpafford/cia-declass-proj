@@ -1,0 +1,136 @@
+{
+  "documents": [
+    {
+      "id": 1,
+      "aiSummary": {
+        "title": "The Family Jewels",
+        "overview": "A collection of CIA documents detailing illegal activities and controversial operations from the 1950s to 1970s.",
+        "summary": "The Family Jewels is a collection of CIA documents that were compiled in 1973 at the direction of CIA Director James R. Schlesinger. These documents detail various illegal and controversial activities conducted by the CIA from the 1950s to the 1970s, including surveillance of American citizens, assassination plots, and drug testing on unwitting subjects.",
+        "bulletPoints": [
+          "Contains evidence of illegal surveillance of American citizens",
+          "Details assassination plots against foreign leaders",
+          "Documents drug testing on unwitting subjects",
+          "Reveals domestic spying operations",
+          "Exposes mail opening programs"
+        ]
+      },
+      "pdfUrl": "pdfs/FAMILY-JEWELS.pdf"
+    },
+    {
+      "id": 2,
+      "aiSummary": {
+        "title": "Project MK-ULTRA",
+        "overview": "A top-secret CIA program focused on mind control and behavioral modification through drug experimentation.",
+        "summary": "Project MK-ULTRA was a CIA program that ran from 1953 to 1973, focusing on mind control and behavioral modification. The program involved extensive experimentation with drugs, particularly LSD, on unwitting subjects including American citizens. Many of the experiments were conducted at universities, hospitals, and prisons, often without the knowledge or consent of the subjects.",
+        "bulletPoints": [
+          "Involved extensive LSD testing on unwitting subjects",
+          "Conducted experiments at universities and hospitals",
+          "Targeted vulnerable populations including prisoners",
+          "Sought to develop mind control techniques",
+          "Destroyed most records in 1973"
+        ]
+      },
+      "pdfUrl": "pdfs/MK-ULTRA.pdf"
+    },
+    {
+      "id": 3,
+      "aiSummary": {
+        "title": "Project Gateway",
+        "overview": "A CIA program exploring remote viewing and psychic phenomena for intelligence gathering.",
+        "summary": "Project Gateway was a CIA program that investigated the potential use of remote viewing and other psychic phenomena for intelligence gathering purposes. The program ran from 1978 to 1995 and included extensive testing of individuals claiming psychic abilities. While the program produced some interesting results, its effectiveness remains controversial.",
+        "bulletPoints": [
+          "Explored remote viewing for intelligence gathering",
+          "Tested individuals with claimed psychic abilities",
+          "Produced controversial results",
+          "Ran from 1978 to 1995",
+          "Part of broader psychic research programs"
+        ]
+      },
+      "pdfUrl": "pdfs/GATEWAY.pdf"
+    },
+    {
+      "id": 4,
+      "aiSummary": {
+        "title": "Operation Mongoose",
+        "overview": "A CIA operation aimed at overthrowing Fidel Castro and the Cuban government in the early 1960s.",
+        "summary": "Operation Mongoose was a CIA operation launched in 1961 with the goal of overthrowing Fidel Castro and the Cuban government. The operation included various covert activities including sabotage, propaganda, and assassination plots. The operation was officially terminated after the Cuban Missile Crisis in 1962.",
+        "bulletPoints": [
+          "Aimed to overthrow Fidel Castro",
+          "Included sabotage and propaganda",
+          "Involved multiple assassination plots",
+          "Terminated after Cuban Missile Crisis",
+          "Part of broader anti-Castro operations"
+        ]
+      },
+      "pdfUrl": "pdfs/MONGOOSE.pdf"
+    },
+    {
+      "id": 5,
+      "aiSummary": {
+        "title": "Operation Chaos",
+        "overview": "A CIA domestic surveillance program targeting anti-Vietnam War activists in the 1960s and 1970s.",
+        "summary": "Operation Chaos was a CIA domestic surveillance program that ran from 1967 to 1974. The program illegally monitored American citizens involved in anti-Vietnam War activities. The operation collected information on thousands of Americans and shared it with other government agencies, violating the CIA's charter which prohibits domestic operations.",
+        "bulletPoints": [
+          "Illegally monitored American citizens",
+          "Targeted anti-war activists",
+          "Collected information on thousands",
+          "Shared data with other agencies",
+          "Violated CIA's charter"
+        ]
+      },
+      "pdfUrl": "pdfs/OPERATION_CHAOS.pdf"
+    },
+    {
+      "id": 6,
+      "aiSummary": {
+        "title": "STARGATE",
+        "overview": "A document on the CIA's remote viewing project that explores the potential of psychic phenomena for intelligence gathering.",
+        "summary": "This document provides an overview of the CIA's Stargate Project, which was established to investigate whether remote viewing could be used as an intelligence tool. It describes the experimental methods employed—including the use of Hemi-Sync audio techniques, controlled laboratory settings, and specialized training protocols—to induce altered states of consciousness in subjects. The report details how individuals, sometimes characterized as having exceptional psychic abilities, were tested for their capacity to perceive distant or hidden targets. It also outlines the challenges encountered in standardizing results, the criteria for participant selection, and the overall outcomes of the experiments, noting both the successes and limitations of the approach.",
+        "bulletPoints": [
+          "Project Overview: The document explains that Stargate was designed to test the feasibility of remote viewing, where trained subjects attempt to perceive and describe distant locations or objects using non-ordinary means.",
+          "Methodologies Employed: It describes the use of Hemi-Sync technology—audio frequencies intended to synchronize the brain's hemispheres—and controlled laboratory conditions to induce specific brainwave states (such as Theta and Delta) that are conducive to remote viewing.",
+          "Subject Selection: Participants were often individuals with reported psychic abilities; the document notes that these subjects were rigorously evaluated and trained through a series of exercises aimed at enhancing their focus and mental clarity.",
+          "Experimental Procedures: Detailed protocols include multiple sessions of remote viewing where subjects were asked to provide detailed descriptions of concealed targets, with results compared against known data for validation.",
+          "Outcomes and Data: The report outlines that while some sessions produced information that was deemed potentially useful for intelligence purposes, there were inconsistencies in reliability and repeatability across experiments.",
+          "Operational Implications: The document discusses the integration of remote viewing into broader intelligence collection efforts, indicating that the project was intended as a supplementary tool to traditional surveillance methods."
+        ]
+      },
+      "pdfUrl": "pdfs/STARGATE.pdf"
+    },
+    {
+      "id": 7,
+      "aiSummary": {
+        "title": "SUN STREAK",
+        "overview": "A classified briefing document on Project Sun Streak, a Defense Intelligence Agency initiative focused on intelligence collection through psychoenergetic techniques.",
+        "summary": "Project Sun Streak is described in this briefing as a program dedicated to gathering intelligence using psychoenergetic methods, which are divided into two main categories: influencing physical targets through mental processes and collecting information purely through mental means, commonly known as remote viewing. The document details the experimental framework and protocols established to train subjects in these techniques, including the use of specialized equipment and methodologies derived from research in psychoenergetics. It outlines the integration of these techniques with conventional intelligence efforts, noting historical experiments conducted since the early 1970s by researchers such as Hal Puthoff and Russell Targ. The briefing also discusses the operational procedures, including target selection, data collection during remote viewing sessions, and the evaluation of results to determine their actionable intelligence value.",
+        "bulletPoints": [
+          "Project Structure and Objectives: The document explains that Project Sun Streak is divided into two main components—one focused on creating mental influence over physical targets (psychoenergetics) and another on collecting information via remote viewing.",
+          "Experimental Methodologies: It details the training protocols that involve inducing specific mental states through techniques such as deep relaxation and focused concentration, which are believed to facilitate the remote viewing process.",
+          "Research Background: The briefing highlights that foundational research was conducted by teams at the Stanford Research Institute (SRI), with prominent researchers like Hal Puthoff and Russell Targ contributing to the development of these techniques.",
+          "Operational Procedures: The document outlines the process for initiating remote viewing sessions, including the selection of targets, the timing of sessions, and the methods used to document and verify the psychic impressions provided by the subjects.",
+          "Integration with Traditional Intelligence: It discusses how the psychoenergetic data collected through remote viewing is intended to supplement conventional intelligence gathering efforts, potentially offering insights in situations where traditional methods are limited.",
+          "Challenges and Resource Requirements: The briefing acknowledges issues such as variability in subject performance and the need for further refinement of the techniques, while also specifying the logistical and budgetary support required to maintain the program within the Defense Intelligence Agency."
+        ]
+      },
+      "pdfUrl": "pdfs/SUN-STREAK.pdf"
+    },
+    {
+      "id": 8,
+      "aiSummary": {
+        "title": "GULAG",
+        "overview": "A document detailing aspects of Soviet forced labor camps, including prisoner transfers, release policies, and official attitudes from 1945 to 1955.",
+        "summary": "This document examines the operation and management of forced labor camps (GULAGs) in the USSR during the post-World War II period up to 1955. It covers several key aspects of camp administration, such as the transfer of prisoners between camps, the decrees governing prisoner release, and the documented attitudes of Soviet prison officials toward detainees. The report provides specific details on the processes used to manage prisoners and reflects on the broader political and social context of the early Cold War era, illustrating how the Soviet penal system was used as an instrument of state control.",
+        "bulletPoints": [
+          "Forced Labor Camps Structure: The document provides a detailed description of the organization and function of GULAGs, outlining the administrative hierarchy and the conditions under which prisoners were held.",
+          "Prisoner Transfers: It specifies the protocols and frequency for transferring prisoners between different camps, highlighting both the logistical challenges and the harsh conditions faced during these transfers.",
+          "Decrees on Release: The report reviews specific governmental decrees issued between 1945 and 1955 that outlined the criteria and procedures for the release of prisoners from forced labor camps.",
+          "Attitudes of Camp Officials: It documents the perspectives and treatment approaches of Soviet prison administrators, including punitive measures and the lack of consideration for individual rights.",
+          "Historical Context: The document situates these practices within the broader political environment of the USSR during the early Cold War, when forced labor was a key element of state policy for both political repression and economic exploitation.",
+          "Impact on Prisoners: It includes references to statistical data and personal accounts that illustrate the human cost of the forced labor system, including high mortality rates and long-term physical and psychological effects on detainees."
+        ]
+      },
+      "pdfUrl": "pdfs/GULAG.pdf"
+    }
+  ]
+}
+

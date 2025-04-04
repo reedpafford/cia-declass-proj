@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Declassified Docs - Viewer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=VT323&display=swap" rel="stylesheet">
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+  />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body id="viewerPage">
+  <div class="container my-4" id="viewerContainer">
+    <div class="row mb-3">
+      <div class="col-12">
+        <h1 id="docTitle" class="mb-0">Document Declassified: <span id="titleText">Title of Document</span></h1>
+        <div class="timer-display">Time remaining: <span id="timeRemaining">04:00</span></div>
+      </div>
+    </div>
+    
+    <!-- PDF Viewer -->
+    <div class="pdf-viewer-container mb-4">
+      <iframe id="pdfFrame" src=""
+              style="width: 100%; height: 700px;"
+              frameborder="0"></iframe>
+    </div>
+
+    <!-- Document Summary -->
+    <div class="summary-container p-4">
+      <h2>Overview</h2>
+      <p id="docOverview"></p>
+      <h2>Full Summary</h2>
+      <p id="docSummary"></p>
+      <h3>Key Points</h3>
+      <ul id="docBullets"></ul>
+    </div>
+
+    <!-- Navigation Buttons -->
+    <div class="text-center mt-4">
+      <button id="backBtn" class="btn btn-secondary me-2">
+        View Another Document
+      </button>
+      <button id="goHomeBtn" class="btn btn-primary">
+        Return to Home
+      </button>
+    </div>
+  </div>
+
+  <script src="session.js"></script>
+  <script src="checkTimer.js"></script>
+  <script src="viewer.js"></script>
+</body>
+</html>
+
+
